@@ -7,12 +7,12 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 
 
-df_developer = pd.read_csv(r"Api_DataFrame\developer.csv")
-df_userdata = pd.read_csv(r"Api_DataFrame\userdata.csv")
+df_developer = pd.read_csv(r"Api_DataFrame/developer.csv")
+df_userdata = pd.read_csv(r"Api_DataFrame/userdata.csv")
 df_best_developer_year= pd.read_csv(r"Api_DataFrame/best_developer_year.csv")
 df_UserForGenre_genre = pd.read_csv(r"Api_DataFrame/UserForGenre_genre.csv")
-df_UserForGenre_year = pd.read_csv(r"Api_DataFrame\UserForGenre_year.csv")
-df_developer_reviews_analysis = pd.read_csv(r"Api_DataFrame\developer_reviews_analysis.csv")
+df_UserForGenre_year = pd.read_csv(r"Api_DataFrame/UserForGenre_year.csv")
+df_developer_reviews_analysis = pd.read_csv(r"Api_DataFrame/developer_reviews_analysis.csv")
 
 app = FastAPI()
 
