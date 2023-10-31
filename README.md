@@ -1,4 +1,1 @@
-# Proyecto_Individual_STEAM
-# Proyecto_Individual_STEAM
-# Proyecto_Individual_STEAM
-# API_Steam
+Repository for render of the STEAM API proyect, for more info go here: https://github.com/pablorobba/STEAM_Individual_Proyect
