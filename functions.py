@@ -32,7 +32,7 @@ def presentation():
 <section>
     <article class = "Access documentation">
         <h2>This is an API made using a STEAM games database</h1>
-        <p>You can access to the documentation here <a href="http://127.0.0.1:8000/docs"> Documentation</a></p>
+        <p>You can access to the documentation here <a href="https://steamapi-h3u0.onrender.com/docs"> Documentation</a></p>
     </article>
 </section>
 <section>
